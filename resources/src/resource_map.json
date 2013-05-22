@@ -1,0 +1,21 @@
+{
+    "media": [
+        {
+            "defName": "SMS",
+            "type": "png-trans",
+            "file": "images/sms.png"
+        },
+        {
+            "defName": "PHONE",
+            "type": "png-trans",
+            "file": "images/phone.png"
+        },
+        {
+            "defName": "CANCEL",
+            "type": "png-trans",
+            "file": "images/cancel.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
