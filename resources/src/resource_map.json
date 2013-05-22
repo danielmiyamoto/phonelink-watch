@@ -1,18 +1,23 @@
 {
     "media": [
         {
+            "defName": "IMAGE_MENU_ICON",
+            "type": "png",
+            "file": "images/menu_icon.png"
+        },
+        {
             "defName": "SMS",
-            "type": "png-trans",
+            "type": "png",
             "file": "images/sms.png"
         },
         {
             "defName": "PHONE",
-            "type": "png-trans",
+            "type": "png",
             "file": "images/phone.png"
         },
         {
             "defName": "CANCEL",
-            "type": "png-trans",
+            "type": "png",
             "file": "images/cancel.png"
         }
     ],
